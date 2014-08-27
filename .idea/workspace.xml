@@ -23,85 +23,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UserTableSeeder.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/database/seeds/UserTableSeeder.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="48" selection-start="564" selection-end="564" vertical-scroll-proportion="-15.416667" vertical-offset="143" max-vertical-offset="1026">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TablesSeeder.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/database/seeds/TablesSeeder.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="399">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014_06_12_115319_create_projects_table.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_12_115319_create_projects_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="39" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.67241377" vertical-offset="240" max-vertical-offset="817">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/database.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="34" selection-start="388" selection-end="388" vertical-scroll-proportion="-13.458333" vertical-offset="0" max-vertical-offset="1064">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GroupsTableSeeder.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/database/seeds/GroupsTableSeeder.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="46" selection-start="311" selection-end="329" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="551">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidebar.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/templates/site/sidebar.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="30" selection-start="27" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="projects.controller.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/modules/projects/projects.controller.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="38" selection-start="268" selection-end="268" vertical-scroll-proportion="-3.1666667" vertical-offset="114" max-vertical-offset="1121">
-              <folding>
-                <element signature="n#showProjectBySlug#0;n#ProjectsController#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/modules/projects/views/index.blade.php">
+        <entry file="file://$PROJECT_DIR$/app/modules/projects/views/admin/projects_pages/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="34" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1463">
+            <state line="5" column="21" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1748">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <file leaf-file-name="admin_projects.pages.controller.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/modules/projects/admin_projects.pages.controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="57" selection-start="1153" selection-end="1158" vertical-scroll-proportion="-21.375" vertical-offset="228" max-vertical-offset="3382">
-              <folding />
+            <state line="91" column="52" selection-start="3776" selection-end="3776" vertical-scroll-proportion="0.35493827" vertical-offset="1309" max-vertical-offset="2793">
+              <folding>
+                <element signature="n#returnActions#0;n#AdminProjectsPagesController#0;n#!!top" expanded="false" />
+                <element signature="n#returnInfo#0;n#AdminProjectsPagesController#0;n#!!top" expanded="false" />
+                <element signature="e#1710#1934#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,7 +85,6 @@
         <option value="$PROJECT_DIR$/app/modules/projects/views/admin/projects/index.blade.php" />
         <option value="$PROJECT_DIR$/app/modules/projects/views/admin/projects_pages/create.blade.php" />
         <option value="$PROJECT_DIR$/app/modules/projects/views/admin/projects_pages/edit.blade.php" />
-        <option value="$PROJECT_DIR$/app/modules/projects/admin_projects.pages.controller.php" />
         <option value="$PROJECT_DIR$/app/modules/projects/views/admin/projects_pages/index.blade.php" />
         <option value="$PROJECT_DIR$/app/config/app.php" />
         <option value="$PROJECT_DIR$/app/views/templates/site/head.blade.php" />
@@ -168,6 +106,7 @@
         <option value="$PROJECT_DIR$/app/modules/projects/projects.controller.php" />
         <option value="$PROJECT_DIR$/app/config/database.php" />
         <option value="$PROJECT_DIR$/app/database/migrations/2014_06_12_115319_create_projects_table.php" />
+        <option value="$PROJECT_DIR$/app/modules/projects/admin_projects.pages.controller.php" />
       </list>
     </option>
   </component>
@@ -251,72 +190,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -383,7 +256,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects_pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -401,11 +290,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -471,15 +368,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="842" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299866" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1793842" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.229585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -682,27 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/projects/admin_projects.pages.controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="27" selection-start="303" selection-end="322" vertical-scroll-proportion="-2.4305556" vertical-offset="1784" max-vertical-offset="2432">
-          <folding>
-            <element signature="n#returnActions#0;n#AdminProjectsPagesController#0;n#!!top" expanded="false" />
-            <element signature="n#returnInfo#0;n#AdminProjectsPagesController#0;n#!!top" expanded="false" />
-            <element signature="n#__construct#0;n#AdminProjectsPagesController#0;n#!!top" expanded="false" />
-            <element signature="e#1710#1934#0" expanded="false" />
-            <element signature="n#index#0;n#AdminProjectsPagesController#0;n#!!top" expanded="false" />
-            <element signature="n#edit#0;n#AdminProjectsPagesController#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/projects/views/admin/projects_pages/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="21" selection-start="224" selection-end="224" vertical-scroll-proportion="0.14136904" vertical-offset="0" max-vertical-offset="1748">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="0" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.45990923" vertical-offset="0" max-vertical-offset="661">
@@ -796,53 +672,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/projects/views/index.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_12_115319_create_projects_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="34" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1463">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="57" selection-start="1153" selection-end="1158" vertical-scroll-proportion="-21.375" vertical-offset="228" max-vertical-offset="3382">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/templates/site/sidebar.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="30" selection-start="27" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/projects/projects.controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="268" selection-end="268" vertical-scroll-proportion="-3.1666667" vertical-offset="114" max-vertical-offset="1121">
-          <folding>
-            <element signature="n#showProjectBySlug#0;n#ProjectsController#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/seeds/GroupsTableSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="46" selection-start="311" selection-end="329" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="551">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="34" selection-start="388" selection-end="388" vertical-scroll-proportion="-13.458333" vertical-offset="0" max-vertical-offset="1064">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/seeds/UserTableSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="48" selection-start="564" selection-end="564" vertical-scroll-proportion="-15.416667" vertical-offset="143" max-vertical-offset="1026">
+        <state line="16" column="83" selection-start="630" selection-end="630" vertical-scroll-proportion="0.11083744" vertical-offset="240" max-vertical-offset="817">
           <folding />
         </state>
       </provider>
@@ -854,10 +686,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_12_115319_create_projects_table.php">
+    <entry file="file://$PROJECT_DIR$/app/database/seeds/UserTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="39" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.67241377" vertical-offset="240" max-vertical-offset="817">
+        <state line="27" column="48" selection-start="564" selection-end="564" vertical-scroll-proportion="0.8665105" vertical-offset="143" max-vertical-offset="1026">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="34" selection-start="388" selection-end="388" vertical-scroll-proportion="0.7564403" vertical-offset="0" max-vertical-offset="1064">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/seeds/GroupsTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="46" selection-start="311" selection-end="329" vertical-scroll-proportion="0.6674473" vertical-offset="0" max-vertical-offset="551">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/templates/site/sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="30" selection-start="27" selection-end="49" vertical-scroll-proportion="0.042128604" vertical-offset="0" max-vertical-offset="741">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/projects/projects.controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="268" selection-end="268" vertical-scroll-proportion="0.18357489" vertical-offset="114" max-vertical-offset="1121">
+          <folding>
+            <element signature="n#showProjectBySlug#0;n#ProjectsController#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/projects/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="34" selection-start="106" selection-end="106" vertical-scroll-proportion="0.21689498" vertical-offset="0" max-vertical-offset="1463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="57" selection-start="1153" selection-end="1158" vertical-scroll-proportion="1.2014052" vertical-offset="228" max-vertical-offset="3382">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/projects/views/admin/projects_pages/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="21" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/projects/admin_projects.pages.controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="52" selection-start="3776" selection-end="3776" vertical-scroll-proportion="0.35493827" vertical-offset="1309" max-vertical-offset="2793">
+          <folding>
+            <element signature="n#returnActions#0;n#AdminProjectsPagesController#0;n#!!top" expanded="false" />
+            <element signature="n#returnInfo#0;n#AdminProjectsPagesController#0;n#!!top" expanded="false" />
+            <element signature="e#1710#1934#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

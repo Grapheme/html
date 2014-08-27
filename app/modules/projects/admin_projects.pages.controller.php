@@ -49,20 +49,20 @@ class AdminProjectsPagesController extends BaseController {
         View::share('module', $this->module);
 	}
 
-	public function index(){
+	public function index($project_id){
 
         Allow::permission($this->module['group'], 'project_page_view');
-        $project = $this->project->with('user')->first();
+        $project = $this->project->with('user')->find($project_id);
         $pages = $this->project->pages;
 		return View::make($this->module['tpl'].'index',compact('project','pages'));
 	}
 
     /****************************************************************************/
 
-	public function create(){
+	public function create($project_id){
 
         Allow::permission($this->module['group'], 'project_create');
-        $project = $this->project;
+        $project = $this->project->find($project_id);
 		return View::make($this->module['tpl'].'create',compact('project'));
 	}
 
@@ -89,7 +89,7 @@ class AdminProjectsPagesController extends BaseController {
 	public function edit($project_id,$page_id){
 
         Allow::permission($this->module['group'], 'project_edit');
-        $project = $this->project;
+        $project = $this->project->find($project_id);
         $project_page = $this->project_page->findOrFail($page_id);
 		return View::make($this->module['tpl'].'edit', compact('project','project_page'));
 	}

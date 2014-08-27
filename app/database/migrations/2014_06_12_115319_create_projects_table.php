@@ -26,7 +26,7 @@ class CreateProjectsTable extends Migration {
             $table->integer('progress')->nullable();
             $table->string('maket')->nullable();
             $table->timestamps();
-            $table->foreign('site_id')->references('id')->on('projects')->onDelete('cascade');
+            $table->foreign('project_id')->references('id')->on('projects')->onDelete('cascade');
         });
 	}
 
